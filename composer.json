@@ -1,4 +1,7 @@
 {
+   "autoload": {
+        "files": ["src/StringUtils.php"]
+   },
    "require": {
       "webmozart/assert": "^1.11"
    }
